@@ -15,3 +15,7 @@ teste
 teste.2
 
 teste.3
+Alteração:
+git add .
+git commit -m "alteração"
+git push
